@@ -6,34 +6,36 @@
   "plugins": [
     "flexible-alerts",
     "pageview-count",
+    "-lunr",
+    "-search",
+    "search-pro",
     "splitter",
     "page-copyright",
-    "sharing-plus",
-    "custom-favicon",
     "todo",
-    "toggle-chapters",
     "multipart",
     "back-to-top-button",
     "code",
-    "search-pro",
-    "chapter-fold",
     "popup",
     "page-treeview",
-    "anchor-navigation-ex",
-    "summary"
+    "anchor-navigation-ex"
   ],
   "pluginsConfig": {
     "page-treeview": {
-      "copyright": "Copyright &#169; aleen42",
       "minHeaderCount": "2",
       "minHeaderDeep": "2"
     },
-    "anchor-navigation-ex": {
-      "isRewritePageTitle": true,
-      "isShowTocTitleIcon": true,
-      "tocLevel1Icon": "fa fa-hand-o-right",
-      "tocLevel2Icon": "fa fa-hand-o-right",
-      "tocLevel3Icon": "fa fa-hand-o-right"
+    "page-copyright": {
+      "description": "modified at",
+      "signature": "kaisesai",
+      "wisdom": "喜欢花时间去鼓捣各种技术~",
+      "format": "YYYY-MM-dd hh:mm:ss",
+      "copyright": "Copyright &#169; 刘凯（kaisesai）",
+      "timeColor": "#666",
+      "copyrightColor": "#666",
+      "utcOffset": "8",
+      "style": "normal",
+      "noPowered": true,
+      "isShowQRCode": false
     }
   }
 }
