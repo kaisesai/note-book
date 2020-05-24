@@ -1,6 +1,7 @@
 # 亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务架构
 
-cache-pdp：Cache architecture product details page
+本内容来自于：
+- [亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务架构](https://zq99299.github.io/note-book/cache-pdp/#%E7%AC%AC%E4%B8%80%E7%89%88)
 
 本章是第一版与第二版全内容目录导航
 
