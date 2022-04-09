@@ -11,7 +11,7 @@
     "docs:build": "node --max_old_space_size=4096 ./node_modules/vuepress/cli.js build docs"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vuepress-plugin-baidu-tongji-analytics": "^1.0.1",
     "vuepress-plugin-code-copy": "^1.0.4"
   },
